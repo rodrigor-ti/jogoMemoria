@@ -20,13 +20,13 @@ body {
         #ec38bc 70%, 
         #fdeff9 100%
     ); */
-    background: radial-gradient(circle, #c4c9dd 0%, #855222 82%);
+    background: radial-gradient(circle, #c4c9dd 0%, #292285 82%);
     padding: 40px 60px;
 }
 
 h2 {
     font-size: 3em;
-    color: #ef4444;
+    color: #0c1bf0;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     text-shadow: 2px 2px #000;
@@ -36,7 +36,7 @@ h2 {
     padding: 15px 20px 10px;
     width: 100%;
     color: #000;
-    background-color: #db1515;
+    background-color: #3c76af;
     border: 1px solid;
     border-radius: 10px;
     font-size: 1.5em;
@@ -68,11 +68,11 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #b9c2c7;
+    background-color: #b0e2ee;
     font-size: 3em;
     transform: rotateY(180deg);
     transition: 0,25s;
-    border: 5px solid #47290d;
+    border: 5px solid #180d47;
     border-radius: 5px;
 }
 
@@ -80,7 +80,7 @@ h2 {
     content: "";
     position: absolute;
     inset: 0;
-    background-color: #404040;
+    background-color: #6ac7ec;
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
@@ -100,5 +100,5 @@ footer {
     margin-top: 20px;
     padding: 10px;
     text-align: center;
-    color: #3f2828;
+    color: white;
 }
