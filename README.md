@@ -4,7 +4,7 @@
 
 Este é um jogo da memória desenvolvido utilizando apenas HTML, CSS e JavaScript. Onde o objetivo do jogo é encontrar todos os pares de emojis escondidos no tabuleiro. O jogo foi projetado para ser interativo e intuitivo, utilizando emojis para criar uma experiência visual divertida e leve. Além disso, foram exploradas várias técnicas de estilização com CSS e eventos em JavaScript para criar um jogo dinâmico e responsivo.
 
-![image](https://raw.githubusercontent.com/rodrigor-ti/jogo-detona-ralph/refs/heads/main/src/images/detona%20ralph.jpg)
+![image](https://raw.githubusercontent.com/rodrigor-ti/jogoMemoria/refs/heads/main/src/images/jogo%20da%20memoria.jpg)
 
 ## Funcionalidades 🎯💻
 
@@ -27,5 +27,5 @@ Este é um jogo da memória desenvolvido utilizando apenas HTML, CSS e JavaScrip
 3. Se os emojis não combinarem, as cartas são viradas novamente.
 4. O objetivo é encontrar todos os pares de emojis no menor número de tentativas.
 
-##  Experiemente o jogo 🎮: [Clique para Jogar](https://rodrigor-ti.github.io/jogo-detona-ralph/). 
+##  Experiemente o jogo 🎮: [Clique para Jogar](https://rodrigor-ti.github.io/jogoMemoria/). 
 
